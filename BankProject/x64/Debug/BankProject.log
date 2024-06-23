@@ -1,0 +1,70 @@
+﻿  BankProject.cpp
+C:\Users\Mega\source\repos\BankProject\BankProject\BankProject.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mega\source\repos\BankProject\BankProject\clsPerson.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsString.h(16,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsUser.h(382,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsInputValidate.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsInputValidate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsInputValidate.h(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsInputValidate.h(124,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject.cpp')
+  C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(152,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsAddNewClientScreen.h(23,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsUpdateClient.h(27,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsAddNewUserScreen.h(117,17): warning C4129: 'L': unrecognized character escape sequence
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Mega\source\repos\BankProject\BankProject\clsMainScreen.h(15,10): error C1083: Cannot open include file: 'clsCurrencyMainScreen.h': No such file or directory
+  (compiling source file 'BankProject.cpp')
+  
